@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wireless Volume Control by Hand Detection
 
 A real-time gesture-based volume control system using computer vision. Control your system volume by simply moving your index finger and thumb in front of a webcam — no physical contact required.
@@ -59,3 +60,13 @@ Python · OpenCV · MediaPipe · pycaw · NumPy · Computer Vision · Gesture Re
 
 ## Author
 Sai Naveena Kode — CSE Mini Project, GRIET, 2022-2023
+=======
+# Wireless-volume-control-by-hand-detection
+We are developing a system which controls the volume by detecting human hand gestures through
+visual based interface of device. The algorithms used in our system are computer vision and
+CNN.-the IDE used for the development of this system is PyCharm where python language is
+used. OpenCV of version 3.x is which provides wide range of functions for image and video
+processing-in this system prominently index and thumb finger are detected and distance between
+them is Calculated accordingly and volume is either increased or decreased. The volume bar is
+created at top right corner to indicate volume fluctuation.
+>>>>>>> 0da90bee01acc9a2e6225fa8f1e53293b37597c9
