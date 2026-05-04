@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Wireless Volume Control by Hand Detection
 
 A real-time gesture-based volume control system using computer vision. Control your system volume by simply moving your index finger and thumb in front of a webcam — no physical contact required.
